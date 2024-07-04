@@ -68,3 +68,5 @@ For Neck- The rse for this graph was 43.91 while the adjusted R squared was 0.87
 For Age- The rse for this graph was 81.47 while the adjusted R-squared was 0.5526.
 
 For headlen- the rse for this graph was 67.81 while the adjusted R-squared was 0.69
+
+For Headwth- The rse for this graph was 76.41 while the adjusted R-squared was 0.6064
